@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ULTRAPC
+ *
+ */
+module WordsSet {
+}
